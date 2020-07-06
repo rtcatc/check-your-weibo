@@ -13,6 +13,6 @@
 
 并向脚本提供登陆之后Cookie中的SUB数据内容：
 
-![cookie](cookie.png)
+![cookie](pic/cookie.png)
 
 注意⚠️：请注意保管好自己的隐私信息，不要将cookies信息泄露给他人，本程序不会保存您的任何个人信息，本人亦不会向您索要任何身份凭证。
